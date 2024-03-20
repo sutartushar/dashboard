@@ -1,0 +1,9 @@
+.responseTime {
+  height: 50%;
+  width: 50%;
+}
+
+.container {
+  display: flex;
+  gap: 1rem;
+}

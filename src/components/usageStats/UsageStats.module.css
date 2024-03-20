@@ -1,0 +1,10 @@
+.usagesStats {
+  height: 50%;
+  width: 50%;
+}
+
+.main_container {
+  display: flex;
+  height: 50vh;
+  gap: 1rem;
+}
